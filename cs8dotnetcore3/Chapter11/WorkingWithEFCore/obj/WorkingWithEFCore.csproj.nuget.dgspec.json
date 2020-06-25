@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christopheranderson/GitHub/dotnet-ex/cs8dotnetcore3/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj": {}
+    "C:\\Users\\chris.CORP\\Documents\\GitHub\\dotnet-ex\\cs8dotnetcore3\\Chapter11\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "/Users/christopheranderson/GitHub/dotnet-ex/cs8dotnetcore3/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj": {
+    "C:\\Users\\chris.CORP\\Documents\\GitHub\\dotnet-ex\\cs8dotnetcore3\\Chapter11\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christopheranderson/GitHub/dotnet-ex/cs8dotnetcore3/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj",
+        "projectUniqueName": "C:\\Users\\chris.CORP\\Documents\\GitHub\\dotnet-ex\\cs8dotnetcore3\\Chapter11\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "projectName": "WorkingWithEFCore",
-        "projectPath": "/Users/christopheranderson/GitHub/dotnet-ex/cs8dotnetcore3/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj",
-        "packagesPath": "/Users/christopheranderson/.nuget/packages/",
-        "outputPath": "/Users/christopheranderson/GitHub/dotnet-ex/cs8dotnetcore3/Chapter11/WorkingWithEFCore/obj/",
+        "projectPath": "C:\\Users\\chris.CORP\\Documents\\GitHub\\dotnet-ex\\cs8dotnetcore3\\Chapter11\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "packagesPath": "C:\\Users\\chris.CORP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris.CORP\\Documents\\GitHub\\dotnet-ex\\cs8dotnetcore3\\Chapter11\\WorkingWithEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/christopheranderson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\chris.CORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
